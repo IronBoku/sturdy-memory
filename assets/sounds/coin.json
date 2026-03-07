@@ -1,0 +1,7 @@
+{
+  "oscillator": "triangle",
+  "pattern": [
+    { "freq": 880, "time": 0.0, "duration": 0.1, "gain": 0.3 },
+    { "freq": 1320, "time": 0.1, "duration": 0.1, "gain": 0.25 }
+  ]
+}
